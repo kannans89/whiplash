@@ -1,0 +1,12 @@
+﻿
+InstallationSteps
+
+Run VS CommandPrompt as administrator
+
+1)Open cmdpromt of visualstudio
+2)Make c:\Whiplash
+3)InstallUtil.exe "Whiplash.exe"
+4)InstallUtil.exe /u "Whiplash.exe" //for uninstalling
+
+
+Run-->Services.msc

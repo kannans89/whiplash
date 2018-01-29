@@ -1,0 +1,17 @@
+﻿
+Today is : 30-10-2016
+so change dates accrodingly to test
+
+30-11-2015 month
+06-11-2015 week
+30-10-2015 lastday
+
+
+
+
+Today is : 29-10-2016 // 10
+so change dates accrodingly to test
+
+29-11-2015 month // 11
+05-11-2015 week
+29-10-2015 lastday //10
